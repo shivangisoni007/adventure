@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/adventure/static/css/main.33c30dbb.chunk.css",
-    "main.js": "/adventure/static/js/main.53039445.chunk.js",
-    "main.js.map": "/adventure/static/js/main.53039445.chunk.js.map",
+    "main.js": "/adventure/static/js/main.31982a2e.chunk.js",
+    "main.js.map": "/adventure/static/js/main.31982a2e.chunk.js.map",
     "runtime-main.js": "/adventure/static/js/runtime-main.c1ae067e.js",
     "runtime-main.js.map": "/adventure/static/js/runtime-main.c1ae067e.js.map",
     "static/js/2.4fd06500.chunk.js": "/adventure/static/js/2.4fd06500.chunk.js",
     "static/js/2.4fd06500.chunk.js.map": "/adventure/static/js/2.4fd06500.chunk.js.map",
     "index.html": "/adventure/index.html",
-    "precache-manifest.3bada9e4150303b922a05faa78cac49a.js": "/adventure/precache-manifest.3bada9e4150303b922a05faa78cac49a.js",
+    "precache-manifest.bb8ab3fdc6974ac284c92b403f91a059.js": "/adventure/precache-manifest.bb8ab3fdc6974ac284c92b403f91a059.js",
     "service-worker.js": "/adventure/service-worker.js",
     "static/css/main.33c30dbb.chunk.css.map": "/adventure/static/css/main.33c30dbb.chunk.css.map",
     "static/js/2.4fd06500.chunk.js.LICENSE.txt": "/adventure/static/js/2.4fd06500.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c1ae067e.js",
     "static/js/2.4fd06500.chunk.js",
     "static/css/main.33c30dbb.chunk.css",
-    "static/js/main.53039445.chunk.js"
+    "static/js/main.31982a2e.chunk.js"
   ]
 }
