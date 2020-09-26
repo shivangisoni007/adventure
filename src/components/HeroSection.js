@@ -7,7 +7,7 @@ function HeroSection() {
     return (
         <div className='hero-container'>
             <video >
-                <source src="videos/video-1.mp4" autoplay></source>
+                <source src="https://shivangisoni007.github.io/public/videos/video-1.mp4" autoplay></source>
             </video>
             <h1>ADVENTURE AWAITS</h1>
             <p> What are you waitng for?</p>
